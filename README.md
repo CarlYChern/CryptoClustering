@@ -11,7 +11,7 @@ Files:
 ## What it does
 
 * Classify cyrptocurrencies according to their fluctuations across six various time frames.
-* Find the best value for.
+* Find the best value for k.
 * Cluster cryptocurrencies with K-Means.
 * Optimize clusters with PCA.
 * Find the best value for k using the PCA data.
@@ -19,5 +19,5 @@ Files:
 * Determine the weights of each feature on each principal component.
 
 ## Functions
-* K-means algorithm
-* Principal Component Analysis (PCA)
+* K-means algorithm.
+* Principal Component Analysis (PCA).
